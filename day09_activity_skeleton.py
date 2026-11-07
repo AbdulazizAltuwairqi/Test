@@ -15,5 +15,5 @@ raw = {
 }
 
 df = pd.DataFrame(raw)
-
+print(df)
 # TODO: Implement normalize_schema(df) to convert types safely
